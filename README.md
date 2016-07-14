@@ -1,23 +1,14 @@
 # Ember-clean-tmp
 
-This README outlines the details of collaborating on this Ember addon.
+This addon allow users to empty the contents of tmp folder when needed
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+* `ember install ember-clean-tmp` 
 
 ## Running
 
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `npm test` (Runs `ember try:testall` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
+* `ember clean-tmp`
 
 ## Building
 
