@@ -1,6 +1,6 @@
 {
   "name": "ember-clean-tmp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Allow users to remove ./tmp/ folder contents to cleanup the garbage when needed.",
   "directories": {
     "doc": "doc",
@@ -11,7 +11,14 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aalasolutions/ember-clean-tmp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aalasolutions/ember-clean-tmp/issues"
+  },
+  "homepage": "https://github.com/aalasolutions/ember-clean-tmp",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -48,4 +55,5 @@
   "ember-addon": {
     "configPath": "tests/dummy/config"
   }
+
 }
