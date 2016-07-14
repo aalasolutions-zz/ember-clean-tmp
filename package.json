@@ -1,6 +1,6 @@
 {
   "name": "ember-clean-tmp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Allow users to remove ./tmp/ folder contents to cleanup the garbage when needed.",
   "directories": {
     "doc": "doc",
