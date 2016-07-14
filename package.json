@@ -1,7 +1,7 @@
 {
   "name": "ember-clean-tmp",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "Allow users to remove ./tmp/ folder contents to cleanup the garbage when needed.",
   "directories": {
     "doc": "doc",
     "test": "tests"
