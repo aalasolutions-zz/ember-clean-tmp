@@ -1,3 +1,6 @@
+[![Ember Observer Score](https://emberobserver.com/badges/ember-clean-tmp.svg)](https://emberobserver.com/addons/ember-clean-tmp)
+
+
 # Ember-clean-tmp
 
 This addon allow users to empty the contents of tmp folder when needed. 
